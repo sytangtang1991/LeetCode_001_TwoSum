@@ -1,1 +1,1 @@
-# LeetCode_01_TwoSum
+# LeetCode_001_TwoSum
